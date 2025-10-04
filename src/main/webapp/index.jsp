@@ -152,7 +152,7 @@
                   
                     <div class="card-actions">
                       <a href="https://jsp-ex1-huy.onrender.com" target="_blank" class="btn small">Open link 1</a>
-                      <a href="https://jsp-ex1b-huy.onrender.com" target="_blank" class="btn small outline">Open link 2</a>
+                      <a href="https://one3-2baitap.onrender.com/" target="_blank" class="btn small outline">Open link 2</a>
                     </div>
                 </div>
                 <!-- Bạn thêm các bài khác ở đây -->
